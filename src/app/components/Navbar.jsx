@@ -24,14 +24,16 @@ const Navbar = () => {
                         <ul
                             tabIndex={0}
                             className="menu menu-sm dropdown-content rounded-box z-1 mt-[45%] md:mt-[25%] w-52 p-2 shadow bg-black">
-                            <li><a>_log_in</a></li>
-                            <li><a>_sign_up</a></li>
+                            <li><a>_home_</a></li>
+                            <li><a>_log_in_</a></li>
+                            <li><a>_sign_up_</a></li>
                         </ul>
                     </div>
                 <div className="navbar-end hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
-                        <li><a>_log_in</a></li>
-                        <li><a>_sign_up</a></li>
+                        <li><a>_home_</a></li>
+                        <li><a>_log_in_</a></li>
+                        <li><a>_sign_up_</a></li>
                     </ul>
                 </div>
             </div>

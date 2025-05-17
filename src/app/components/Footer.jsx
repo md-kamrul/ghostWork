@@ -8,21 +8,21 @@ const Footer = () => {
                     <div className='flex items-center justify-center gap-5'>
                         <div>
                             <a href="#">
-                                _about_us
+                                _about_us_
                             </a>
                             </div>
                         <div>
                             <a href="#">
-                                _our_policy
+                                _our_policy_
                             </a>
                             </div>
                         <div>
                             <a href="#">
-                                _return_policy
+                                _return_policy_
                             </a>
                             </div>
                     </div>
-                    <p>_copyright_©_{new Date().getFullYear()}_all_right_reserved_by_GhostWork</p>
+                    <p>_copyright_©_{new Date().getFullYear()}_all_right_reserved_by_GhostMate</p>
                 </aside>
             </footer>
         </div>
